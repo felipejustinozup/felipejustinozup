@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="3ea37aa7319b81bc38a069ad2ac87c8a">
+<div id="7aeb674b5a8df5a6afe3517258a92aac">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
             <tr>
                 <td></td>
                 <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
-                <td></td>
+                <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
                 <td></td>
                 <td></td>
             </tr>
